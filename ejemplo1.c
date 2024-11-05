@@ -15,3 +15,7 @@ int main(){
 
     return 0;
 }
+
+//Apunte Realidad importante numero 3
+
+La memoria no es infinita, hay que saber administrarla por el sistema
